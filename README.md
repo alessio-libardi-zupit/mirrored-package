@@ -1,1 +1,1 @@
-# mirrored-subtree
+# Mirrored package
